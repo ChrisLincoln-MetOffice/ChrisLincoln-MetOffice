@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChrisLincoln-MetOffice
+- 👋 Hi, I’m Chris Lincoln and I work for the [Met Office](https://metoffice.gov.uk)
 - 👀 I’m interested in understanding how things work
 - 🌱 I’m currently learning about life
 - 💞️ I’m looking to collaborate on things where I can add value
